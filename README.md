@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeetRoy97
 - 👀 I’m interested in natural language processing (NLP).
-- 🌱 I’m currently pursuing my Mtech from IIT Jodhpur. 
+- 🌱 I have completed my Mtech in specialization AI from IIT Jodhpur.
 - 💞️ I’m looking to collaborate on latest NLP projects.
 - 📫 How to reach me- email- royprasenjeet97@gmail.com
 
